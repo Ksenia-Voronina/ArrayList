@@ -1,0 +1,6 @@
+﻿  ArrayList.cpp
+D:\Универ\АиСД\ArrayList\ArrayList\ArrayList.cpp(79,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Универ\АиСД\ArrayList\ArrayList\ArrayList.cpp(73): message : во время компиляции функции-члена класс шаблон "int ArrayList<double>::Get(int)"
+D:\Универ\АиСД\ArrayList\ArrayList\ArrayList.cpp(217): message : выполняется компиляция ссылки на экземпляр шаблон функции "int ArrayList<double>::Get(int)"
+D:\Универ\АиСД\ArrayList\ArrayList\ArrayList.cpp(188): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArrayList<double>"
+  ArrayList.vcxproj -> D:\Универ\АиСД\ArrayList\x64\Debug\ArrayList.exe
